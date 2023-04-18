@@ -1,2 +1,2 @@
 # db
-public_db
+public database to work
